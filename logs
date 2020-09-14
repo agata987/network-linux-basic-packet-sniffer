@@ -1,0 +1,189 @@
+time: 2020-09-14 16:55:07.139182 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:07.140151 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:07.778596 | protocol: all | source mac: d0:17:c2:2f:3c:d0 | destination mac: 01:80:c2:00:00:00
+time: 2020-09-14 16:55:08.162578 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:08.163790 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:09.186050 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:09.187281 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:09.786508 | protocol: all | source mac: d0:17:c2:2f:3c:d0 | destination mac: 01:80:c2:00:00:00
+time: 2020-09-14 16:55:10.209600 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:10.210334 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:10.477749 | protocol: all | source mac: 00:21:cc:b7:4c:8f | destination mac: ff:ff:ff:ff:ff:ff
+time: 2020-09-14 16:55:11.006472 | protocol: all | source mac: 00:21:cc:b7:4c:8f | destination mac: ff:ff:ff:ff:ff:ff
+time: 2020-09-14 16:55:11.234274 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:11.235492 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:11.772469 | protocol: all | source mac: c8:5b:76:48:33:03 | destination mac: 01:00:5e:7f:ff:fa
+time: 2020-09-14 16:55:11.794758 | protocol: all | source mac: d0:17:c2:2f:3c:d0 | destination mac: 01:80:c2:00:00:00
+time: 2020-09-14 16:55:12.006385 | protocol: all | source mac: 00:21:cc:b7:4c:8f | destination mac: ff:ff:ff:ff:ff:ff
+time: 2020-09-14 16:55:12.258280 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:12.259501 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:12.773323 | protocol: all | source mac: c8:5b:76:48:33:03 | destination mac: 01:00:5e:7f:ff:fa
+time: 2020-09-14 16:55:13.282092 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:13.283182 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:13.493786 | protocol: all | source mac: 00:21:cc:b7:4c:8f | destination mac: ff:ff:ff:ff:ff:ff
+time: 2020-09-14 16:55:13.774622 | protocol: all | source mac: c8:5b:76:48:33:03 | destination mac: 01:00:5e:7f:ff:fa
+time: 2020-09-14 16:55:13.803019 | protocol: all | source mac: d0:17:c2:2f:3c:d0 | destination mac: 01:80:c2:00:00:00
+time: 2020-09-14 16:55:14.003506 | protocol: all | source mac: 00:21:cc:b7:4c:8f | destination mac: ff:ff:ff:ff:ff:ff
+time: 2020-09-14 16:55:14.306461 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:14.307559 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:14.776307 | protocol: all | source mac: c8:5b:76:48:33:03 | destination mac: 01:00:5e:7f:ff:fa
+time: 2020-09-14 16:55:15.003502 | protocol: all | source mac: 00:21:cc:b7:4c:8f | destination mac: ff:ff:ff:ff:ff:ff
+time: 2020-09-14 16:55:15.330084 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:15.331334 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 16:55:15.811351 | protocol: all | source mac: d0:17:c2:2f:3c:d0 | destination mac: 01:80:c2:00:00:00
+time: 2020-09-14 16:55:16.353310 | protocol: all | source mac: f0:76:1c:16:27:33 | destination mac: 08:00:27:af:97:4c
+time: 2020-09-14 16:55:16.353934 | protocol: all | source mac: 08:00:27:af:97:4c | destination mac: f0:76:1c:16:27:33
+time: 2020-09-14 17:00:50.435514 | protocol: icmp | source mac: 192.168.4.80 | destination mac: 192.168.4.81
+time: 2020-09-14 17:00:50.436640 | protocol: icmp | source mac: 192.168.4.81 | destination mac: 192.168.4.80
+time: 2020-09-14 17:00:51.458105 | protocol: icmp | source mac: 192.168.4.80 | destination mac: 192.168.4.81
+time: 2020-09-14 17:00:51.459850 | protocol: icmp | source mac: 192.168.4.81 | destination mac: 192.168.4.80
+time: 2020-09-14 17:00:52.482177 | protocol: icmp | source mac: 192.168.4.80 | destination mac: 192.168.4.81
+time: 2020-09-14 17:00:52.483596 | protocol: icmp | source mac: 192.168.4.81 | destination mac: 192.168.4.80
+time: 2020-09-14 17:00:53.506222 | protocol: icmp | source mac: 192.168.4.80 | destination mac: 192.168.4.81
+time: 2020-09-14 17:00:53.507481 | protocol: icmp | source mac: 192.168.4.81 | destination mac: 192.168.4.80
+time: 2020-09-14 17:00:54.529932 | protocol: icmp | source mac: 192.168.4.80 | destination mac: 192.168.4.81
+time: 2020-09-14 17:00:54.530941 | protocol: icmp | source mac: 192.168.4.81 | destination mac: 192.168.4.80
+0000 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0001 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0002 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0003 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0004 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0000 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0001 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0002 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0003 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0004 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0000 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0001 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0002 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0003 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0004 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0005 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0006 Ether / IP / UDP 192.168.4.85:50756 > 239.255.255.250:1900 / Raw
+0007 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0008 Ether / IP / UDP 192.168.4.85:50756 > 239.255.255.250:1900 / Raw
+0009 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0010 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0011 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0012 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0013 Ether / IP / UDP 192.168.4.85:50756 > 239.255.255.250:1900 / Raw
+0014 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0015 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0016 Ether / IP / UDP / DNS Qry "b'global.vortex.data.trafficmanager.net.'" 
+0017 Ether / IP / UDP / DNS Ans 
+0018 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https S
+0019 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 SA
+0020 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https A
+0021 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https PA / Raw
+0022 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 A / Raw
+0023 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https A
+0024 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 A / Raw
+0025 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https A
+0026 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 PA / Raw
+0027 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https A
+0028 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https PA / Raw
+0029 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 PA / Raw
+0030 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https A
+0031 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https PA / Raw
+0032 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 FPA / Raw
+0033 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https PA / Raw
+0034 Ether / IP / TCP 192.168.4.80:40218 > 40.77.226.250:https FA
+0035 Ether / IP / TCP 40.77.226.250:https > 192.168.4.80:40218 A
+0036 Ether / IP / UDP 192.168.4.85:50756 > 239.255.255.250:1900 / Raw
+0037 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0038 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0039 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0040 Ether / ARP who has 192.168.4.77 says 192.168.4.49 / Padding
+0041 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0042 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0043 Ether / ARP who has 192.168.4.77 says 192.168.4.49 / Padding
+0044 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0045 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0046 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0047 Ether / ARP who has 192.168.4.77 says 192.168.4.49 / Padding
+0048 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0049 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0050 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0051 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0052 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0053 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0054 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0055 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0056 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0057 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0058 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0059 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0060 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0061 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0062 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0063 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0064 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0065 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0066 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0067 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0068 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0069 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0070 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0071 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0072 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0073 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0074 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0075 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0076 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0077 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0078 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0079 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0080 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0081 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0082 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0083 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0084 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0085 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0086 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0087 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0088 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0089 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0090 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0091 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0092 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0093 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0094 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0095 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0096 Ether / ARP who has 192.168.4.4 says 192.168.4.49 / Padding
+0097 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0098 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0099 08:00:27:af:97:4c > 01:80:c2:00:00:0e (LLDP) / Raw
+0100 08:00:27:af:97:4c > 01:80:c2:00:00:0e (LLDP) / Raw
+0101 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0102 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0103 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0104 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0105 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0106 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0107 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0108 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0109 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0110 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0111 Ether / IP / TCP 192.168.4.80:37548 > 34.237.73.95:https PA / Raw
+0112 Ether / IP / TCP 34.237.73.95:https > 192.168.4.80:37548 PA / Raw
+0113 Ether / IP / TCP 192.168.4.80:37548 > 34.237.73.95:https A
+0114 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0115 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0116 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0117 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0118 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0119 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0120 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0121 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0122 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0123 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0124 802.3 d0:17:c2:2f:3c:d0 > 01:80:c2:00:00:00 / LLC / STP / Padding
+0125 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0126 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0127 Ether / ARP who has 192.168.4.80 says 192.168.4.1 / Padding
+0128 Ether / ARP is at f0:76:1c:16:27:33 says 192.168.4.80
+0000 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0001 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0002 Ether / IP / ICMP 192.168.4.80 > 192.168.4.81 echo-request 0 / Raw
+0003 Ether / IP / ICMP 192.168.4.81 > 192.168.4.80 echo-reply 0 / Raw
+0004 Ether / ARP who has 192.168.4.77 says 192.168.4.49 / Padding
