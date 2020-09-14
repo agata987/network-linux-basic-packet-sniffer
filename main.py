@@ -28,7 +28,7 @@ interface = input('Enter network interface for sniffing (e.g enp9s0): ')
 
 """
 NOTE: 
-promiscous mode - all traffic is passed to the CPU rather than  only the frames that are intended to receive (addressed to the device). 
+promiscous mode - all traffic is passed to the CPU rather than  only the frames that are intended to receive (addressed to the mac addr of the device). 
 In this mode every data packet transmitted can be reveived and read by a network adapter. 
 """
 
